@@ -1,0 +1,29 @@
+{
+  "name": "mod-8-rep-parcel",
+  "version": "1.0.0",
+  "description": "",
+  "source": "src/index.html",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaksymKolii/mod-8-repet.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaksymKolii/mod-8-repet/issues"
+  },
+  "homepage": "https://github.com/MaksymKolii/mod-8-repet#readme",
+  "dependencies": {
+    "joi": "^17.6.0",
+    "shortid": "^2.2.16"
+  },
+  "devDependencies": {
+    "parcel": "latest"
+  }
+}
