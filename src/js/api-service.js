@@ -12,6 +12,10 @@ export const updateUserById = ()=>{
 
 export  const x =5;
 export const y = 'qwert';
+
+ const z = 'mango';
+ const f = 'XXX';
+export  default {z, f};
   // можно так одним махом все
 // export default {fetchAllUsers, fetchUserById, updateUserById}
 

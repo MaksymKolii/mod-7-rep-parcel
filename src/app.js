@@ -1,5 +1,5 @@
-// import qwe from './js/validate-password.js';
-//console.log(qwe);
+import validatePass from './js/validate-password.js';
+//console.log(validatePass);
 
 // import appservices from './js/api-service.js';
 
@@ -19,3 +19,5 @@
 // console.log(x);
 
 // импорт пространства имен (Так можем одним файлом вытянуть)
+// import * as apiService from './js/api-service.js';
+// console.log(apiService);
